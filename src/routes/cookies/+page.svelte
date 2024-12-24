@@ -1,3 +1,7 @@
+<head>
+  <title>Cookie Policy - valbuilds.xyz</title>
+</head>
+
 <header
   class="dark:bg-primary-700 dark:text-white bg-primary-400 text-black py-10"
 >

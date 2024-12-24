@@ -5,6 +5,10 @@
   let githubLink: string = "https://github.com/valbuildr";
 </script>
 
+<head>
+  <title>valbuilds.xyz</title>
+</head>
+
 <header
   class="dark:bg-primary-700 dark:text-white bg-primary-400 text-black py-10"
 >
