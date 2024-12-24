@@ -133,6 +133,7 @@
     > will get you what time it is for me.
   </p>
 </div>
+
 <hr class="border-black dark:border-white" />
 
 <div
@@ -146,9 +147,12 @@
   </h2>
 
   <p class="mx-6">
-    As you might be able to tell, I know how to program things. (i'm a trans girl, who could've guessed)<br />
+    As you might be able to tell, I know how to program things. (i'm a trans
+    girl, who could've guessed)<br />
     I know JavaScript, Python, some Java, and some Lua.<br />
-    For a bunch of my current (and past) projects with code, check out <a href={githubLink} class="hover:underline" target="_blank">my GitHub</a>.<br />
+    For a bunch of my current (and past) projects with code, check out
+    <a href={githubLink} class="hover:underline" target="_blank">my GitHub</a
+    >.<br />
     One last thing for this section, <b>JavaScript is NOT the same as Java</b>.
   </p>
 </div>
@@ -178,5 +182,18 @@
     you find an email for me anywhere, don't even bother. I won't reply.<br />
     The fastest way to contact me is on Discord, I usually have it open when I'm
     at my computer.
+  </p>
+</div>
+
+<hr class="border-black dark:border-white" />
+
+<div
+  class="dark:bg-primary-800 dark:text-white bg-primary-300 text-black py-5"
+  id="bottom"
+>
+  <p class="text-center">
+    you've reached the bottom. head <a href="#top" class="hover:underline"
+      >back to the top</a
+    >?
   </p>
 </div>
