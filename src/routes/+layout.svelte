@@ -22,6 +22,42 @@
   </nav>
   <div class="flex flex-col flex-1 max-w-screen-xl mx-auto p-4">
     {@render children()}
+
+    <hr class="border-black dark:border-white" />
+
+    <div
+      class="dark:bg-primary-800 dark:text-white bg-primary-300 text-black py-5"
+      id="bottom"
+    >
+      <p class="text-center px-6 mb-3">
+        You've reached the bottom. Head <a href="#top" class="hover:underline"
+          >back to the top</a
+        >?
+      </p>
+      <p class="text-center px-6 mb-3">
+        This website was built with <a
+          href="https://svelte.dev/"
+          class="hover:underline"
+          target="_blank">Svelte 5</a
+        >
+        and hosted on
+        <a
+          href="https://www.netlify.com/"
+          class="hover:underline"
+          target="_blank">Netlify</a
+        >. View the source code
+        <a
+          href="https://github.com/valbuildr/www.valbuilds.xyz"
+          class="hover:underline"
+          target="_blank">here</a
+        >.
+      </p>
+      <p class="text-center px-6">
+        This website does <span class="underline">NOT</span> use cookies to
+        track you. Read the
+        <a href="/cookies" class="hover:underline">Cookie Policy</a> for more info.
+      </p>
+    </div>
   </div>
   <a rel="me" class="hidden" href="https://wetdry.world/@valbuildr">Mastodon</a>
 </div>

@@ -1,4 +1,6 @@
 <script lang="ts">
+  import { text } from "@sveltejs/kit";
+
   let pronounsPageLink: string = "https://pronouns.page/@valbuilded";
   let githubLink: string = "https://github.com/valbuildr";
 </script>
@@ -182,18 +184,5 @@
     you find an email for me anywhere, don't even bother. I won't reply.<br />
     The fastest way to contact me is on Discord, I usually have it open when I'm
     at my computer.
-  </p>
-</div>
-
-<hr class="border-black dark:border-white" />
-
-<div
-  class="dark:bg-primary-800 dark:text-white bg-primary-300 text-black py-5"
-  id="bottom"
->
-  <p class="text-center">
-    you've reached the bottom. head <a href="#top" class="hover:underline"
-      >back to the top</a
-    >?
   </p>
 </div>
