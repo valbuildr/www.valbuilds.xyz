@@ -19,6 +19,6 @@
   id="gender-and-pronouns"
 >
   <p class="mx-6">
-    <b>Cookies are delicious. Cookies that track you aren't.</b> This website will <span class="underline">never</span> track you. This is because there is no reason to. What you do on the internet is your business, not anyone elses.
+    <b>Cookies are delicious. Cookies that track you aren't.</b> This website will <span class="underline">never</span> track you. This is because there is no reason to. What you do on the internet is your business, not anyone elses. I also try to remove any tracking from external links. If you notice a link that has tracking on it, please let me know by <a href="/#contact-me" class="hover:underline">contacting me</a>.
   </p>
 </div>
