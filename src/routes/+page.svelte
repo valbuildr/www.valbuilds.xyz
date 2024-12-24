@@ -20,6 +20,7 @@
 
 <hr class="border-black dark:border-white" />
 
+<!-- Gender & Pronouns -->
 <div
   class="dark:bg-primary-800 dark:text-white bg-primary-300 text-black py-5"
   id="gender-and-pronouns"
@@ -44,6 +45,7 @@
 
 <hr class="border-black dark:border-white" />
 
+<!-- Recent Projects -->
 <div
   class="dark:bg-primary-800 dark:text-white bg-primary-300 text-black py-5"
   id="recent-projects"
@@ -108,6 +110,7 @@
 
 <hr class="border-black dark:border-white" />
 
+<!-- Language, Location, & Timezone -->
 <div
   class="dark:bg-primary-800 dark:text-white bg-primary-300 text-black py-5"
   id="language-location-timezone"
@@ -138,6 +141,7 @@
 
 <hr class="border-black dark:border-white" />
 
+<!-- Programming -->
 <div
   class="dark:bg-primary-800 dark:text-white bg-primary-300 text-black py-5"
   id="programming"
@@ -161,6 +165,7 @@
 
 <hr class="border-black dark:border-white" />
 
+<!-- Contact Me -->
 <div
   class="dark:bg-primary-800 dark:text-white bg-primary-300 text-black py-5"
   id="contact-me"
