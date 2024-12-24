@@ -24,15 +24,15 @@
 
 <hr class="border-black dark:border-white" />
 
-<!-- Gender & Pronouns -->
+<!-- Gender, Pronouns, & Sexuality -->
 <div
   class="dark:bg-primary-800 dark:text-white bg-primary-300 text-black py-5"
-  id="gender-and-pronouns"
+  id="gender-pronouns-sexuality"
 >
   <h2
     class="text-center lg:text-4xl md:text-3xl sm:text-2xl text-xl font-bold mb-3"
   >
-    <a href="#gender-and-pronouns"> Gender & Pronouns </a>
+    <a href="#gender-pronouns-sexuality"> Gender, Pronouns, & Sexuality </a>
   </h2>
 
   <p class="mx-6">
@@ -43,7 +43,11 @@
     For more info on my pronoun and name preferences, feel free to visit
     <a href={pronounsPageLink} class="hover:underline" target="_blank">
       my card on pronouns.page
-    </a>.
+    </a>.<br />
+    <b>I'm a lesbian,</b> which basically means I'm into women.<br />
+    <b>I'm also asexual,</b> which means I don't have a desire for sexual relationships,
+    just romantic ones.<br />
+    <b>Lastly, I am a minor.</b> I am not 18, therefore ask that you try and keep it PG in my DMs.
   </p>
 </div>
 
