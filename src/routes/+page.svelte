@@ -25,7 +25,7 @@
   <h2
     class="text-center lg:text-4xl md:text-3xl sm:text-2xl text-xl font-bold mb-3"
   >
-    Gender & Pronouns
+    <a href="#gender-and-pronouns"> Gender & Pronouns </a>
   </h2>
 
   <p class="mx-6">
@@ -49,7 +49,7 @@
   <h2
     class="text-center lg:text-4xl md:text-3xl sm:text-2xl text-xl font-bold mb-3"
   >
-    Recent Projects
+    <a href="#recent-projects">Recent Projects</a>
   </h2>
 
   <div class="grid md:grid-cols-3 gap-3 mx-6">
@@ -113,7 +113,7 @@
   <h2
     class="text-center lg:text-4xl md:text-3xl sm:text-2xl text-xl font-bold mb-3"
   >
-    Language, Location, & Timezone
+    <a href="#language-location-timezone">Language, Location, & Timezone</a>
   </h2>
 
   <p class="mx-6">
@@ -143,7 +143,7 @@
   <h2
     class="text-center lg:text-4xl md:text-3xl sm:text-2xl text-xl font-bold mb-3"
   >
-    Programming
+    <a href="#programming">Programming</a>
   </h2>
 
   <p class="mx-6">
@@ -166,7 +166,7 @@
   <h2
     class="text-center lg:text-4xl md:text-3xl sm:text-2xl text-xl font-bold mb-3"
   >
-    Contact Me
+    <a href="#contact-me">Contact Me</a>
   </h2>
 
   <p class="mx-6">
