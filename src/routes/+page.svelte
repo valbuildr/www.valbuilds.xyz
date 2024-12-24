@@ -37,7 +37,7 @@
 
   <p class="mx-6">
     <b>I'm transgender</b>, which means that my gender identity does not align
-    with the sex I was assigned at birth. <br />
+    with the sex I was assigned at birth. (gender is not the same as sex)<br />
     <b>I go by she/they pronouns</b>, which basically means I'm fine with being
     referenced to with the pronouns she/her or they/them.<br />
     For more info on my pronoun and name preferences, feel free to visit
