@@ -26,15 +26,15 @@
     <hr class="border-black dark:border-white" />
 
     <div
-      class="dark:bg-primary-800 dark:text-white bg-primary-300 text-black py-5"
+      class="dark:bg-primary-800 dark:text-white bg-primary-300 text-black py-5 px-6"
       id="bottom"
     >
-      <p class="text-center px-6 mb-3">
+      <p class="mb-2">
         You've reached the bottom. Head <a href="#top" class="hover:underline"
           >back to the top</a
         >?
       </p>
-      <p class="text-center px-6 mb-3">
+      <p class="mb-2">
         This website was built with <a
           href="https://svelte.dev/"
           class="hover:underline"
@@ -52,10 +52,13 @@
           target="_blank">here</a
         >.
       </p>
-      <p class="text-center px-6">
+      <p class="mb-2">
         This website does <span class="underline">NOT</span> use cookies to
         track you. Read the
         <a href="/cookies" class="hover:underline">Cookie Policy</a> for more info.
+      </p>
+      <p>
+        Made with ❤️ by Valentine. 🏳️‍⚧️
       </p>
     </div>
   </div>
