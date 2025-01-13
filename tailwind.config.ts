@@ -27,6 +27,9 @@ export default {
           950: "#39163c"
         },
       },
+      fontFamily: {
+        mono: "Space Mono"
+      }
     },
   },
 

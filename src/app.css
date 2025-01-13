@@ -1,3 +1,20 @@
 @import "tailwindcss/base";
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
+
+@font-face {
+    font-family: "Space Mono";
+    src: url("/fonts/space-mono.ttf");
+}
+
+.buttons {
+    width: 100%;
+    gap: 5px;
+    margin-bottom: 0;
+    contain: inline-size layout;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    image-rendering: pixelated;
+}
