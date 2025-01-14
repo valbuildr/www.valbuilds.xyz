@@ -1,7 +1,7 @@
 <script lang="ts">
   import "../app.css";
   let { children } = $props();
-  import { DarkMode } from "flowbite-svelte";
+  import DarkMode from "$lib/DarkMode.svelte";
 </script>
 
 <div
@@ -17,7 +17,7 @@
       >
     </a>
     <div class="w-auto" id="navbar-default">
-      <DarkMode class="hover:bg-[#dadada] dark:hover:bg-[#2e2e2e]" />
+      <DarkMode />
     </div>
   </nav>
   <div class="max-w-screen-xl my-2 mx-auto px-4 2xl:px-0 font-mono">
