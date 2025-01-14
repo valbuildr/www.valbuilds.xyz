@@ -1,8 +1,5 @@
 <script lang="ts">
-  import { text } from "@sveltejs/kit";
-
-  let pronounsPageLink: string = "https://pronouns.page/@valbuilded";
-  let githubLink: string = "https://github.com/valbuildr";
+  import Button from "$lib/Button.svelte";
 </script>
 
 <svelte:head>
@@ -38,25 +35,31 @@
 <p class="text-center font-bold mb-2">some cool people</p>
 <p class="text-center text-xs">i have no friends to put here :(</p>
 <div class="buttons">
-  <a href="/" target="_blank">
-    <img src="/buttons/valbuildr.png" alt="valbuildr (hey thats me!!)" />
-  </a>
+  <Button
+    url="/"
+    imageUrl="/buttons/valbuildr.png"
+    alt="valbuildr (hey thats me!!)"
+  />
 </div>
 <p class="text-center text-xs">
   feel free to use <a
     href="/buttons/valbuildr.png"
     class="text-blue-600 dark:text-blue-300 hover:underline">my button</a
-  >!!
+  > :)
 </p>
 
 <hr class="border-black dark:border-white my-3" />
 
-<p class="text-center font-bold mb-2">:0</p>
+<p class="text-center font-bold mb-2">some more cool buttons</p>
 <div class="buttons">
-  <a href="https://wetdry.world/" target="_blank">
-    <img src="/buttons/wetdryworld.png" alt="wetdry.world" />
-  </a>
-  <a href="https://www.ifixit.com/Right-to-Repair" target="_blank">
-    <img src="/buttons/right-to-repair.jpg" alt="I SUPPORT RIGHT TO REPAIR" />
-  </a>
+  <Button
+    url="https://wetdry.world/"
+    imageUrl="/buttons/wetdryworld.png"
+    alt="wetdry.world"
+  />
+  <Button
+    url="https://www.ifixit.com/Right-to-Repair"
+    imageUrl="/buttons/right-to-repair.jpg"
+    alt="I SUPPORT RIGHT TO REPAIR"
+  />
 </div>
