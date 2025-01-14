@@ -17,6 +17,24 @@
       >
     </a>
     <div class="w-auto" id="navbar-default">
+      <a
+        href="/"
+        class="font-mono text-blue-600 dark:text-blue-300 hover:underline"
+        >home</a
+      >
+      <span class="px-2">•</span>
+      <a
+        href="/playlist"
+        class="font-mono text-blue-600 dark:text-blue-300 hover:underline"
+        >playlist</a
+      >
+      <span class="px-2">•</span>
+      <a
+        href="/cookies"
+        class="font-mono text-blue-600 dark:text-blue-300 hover:underline"
+        >cookies</a
+      >
+      <span class="px-2">•</span>
       <DarkMode />
     </div>
   </nav>
