@@ -35,6 +35,12 @@
         >cookies</a
       >
       <span class="px-2">•</span>
+      <a
+        href="/links"
+        class="font-mono text-blue-600 dark:text-blue-300 hover:underline"
+        >links</a
+      >
+      <span class="px-2">•</span>
       <DarkMode />
     </div>
   </nav>

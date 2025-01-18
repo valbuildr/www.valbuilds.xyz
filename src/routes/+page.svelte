@@ -23,17 +23,16 @@
 
 <p class="mt-4">
   if you want to see more of my stuff online, i usually share them on my social
-  media which you can see all of my platforms at <a
-    href="https://links.valbuilds.xyz"
-    class="text-blue-600 dark:text-blue-300 hover:underline"
-    >links.valbuilds.xyz</a
+  media which you can see all of my platforms <a
+    href="/links"
+    class="text-blue-600 dark:text-blue-300 hover:underline">here</a
   >.
 </p>
 
 <hr class="border-black dark:border-white my-3" />
 
 <p class="text-center font-bold mb-2">some cool people</p>
-<p class="text-center text-xs">i have no friends to put here :(</p>
+<p class="text-center text-xs">i have no friends to put here ☹️</p>
 <div class="buttons">
   <Button
     url="/"
@@ -45,7 +44,7 @@
   feel free to use <a
     href="/buttons/valbuildr.png"
     class="text-blue-600 dark:text-blue-300 hover:underline">my button</a
-  > :)
+  > 🙂
 </p>
 
 <hr class="border-black dark:border-white my-3" />

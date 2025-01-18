@@ -31,7 +31,7 @@
 </svelte:head>
 
 <button
-  on:click={toggleTheme}
+  onclick={toggleTheme}
   aria-label={ariaLabel}
   type="button"
   class={defaultClass}

@@ -1,10 +1,14 @@
+<script>
+  import {  }
+</script>
+
 <p>
   this website only uses cookies to save what color mode you choose. thats it.
 </p>
 
 <p class="mt-4">
   they are not and will never be used to track you because thats creepy and
-  unnecessary :)
+  unnecessary 🙂
 </p>
 
 <p class="mt-12">
