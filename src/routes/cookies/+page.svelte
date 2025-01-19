@@ -1,7 +1,3 @@
-<script>
-  import {  }
-</script>
-
 <p>
   this website only uses cookies to save what color mode you choose. thats it.
 </p>
